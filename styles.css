@@ -1,0 +1,152 @@
+.topcontainer {
+  background-color: #d4f3ef;
+  line-height: 2;
+}
+p{
+  line-height: 2;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: #40514E;
+}
+h1 {
+  padding-top: 100px;
+  padding-bottom: 0;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625em;
+  margin: 0px auto 0 auto;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Balsamiq Sans", cursive;
+  color: #66bfbf;
+}
+h3 {
+  font-family: "Balsamiq Sans", cursive;
+  color: #11999e;
+}
+.topcloud {
+  position: absolute;
+  top: 10%;
+  left: 60%;
+}
+.bottomcloud {
+  position: absolute;
+  left: 30%;
+}
+.web {
+  text-decoration: underline;
+}
+.subheading {
+  font-size: 1.8em;
+  margin-top: 0px;
+  color: #66bfbf;
+  font-weight: normal;
+}
+.footer-link {
+  color: #11999e;
+  padding: 50px;
+  text-decoration: none;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skilimage1 {
+  size: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skilimage2 {
+  size: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skillhead2 {
+  text-align: right;
+}
+/*
+.skilltxt2{
+  clear: right;
+}
+.skilltxt1{
+  clear: left;
+}
+*/
+.profile {
+  margin: 100px auto 100px auto;
+  width: 20%;
+}
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
+.contact-me {
+  margin: 100px auto 100px auto;
+  width: 40%;
+}
+/*
+.btn {
+  background-color: #11999e;
+  color: white;
+  text-decoration: none;
+  margin-top: 100px;
+  border-radius: 8px;
+  font-size: 20px;
+  padding: 14px 40px;
+
+}
+*/
+.cntxt {
+  margin-bottom: 70px;
+  padding: 40px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  line-height: 4;
+  padding: 60px;
+}
+.footnote {
+  color: aliceblue;
+  font-size: 15px;
+  margin: 0px;
+}
+.skills {
+  margin: 100px auto 100px auto;
+}
+a:hover{
+  color: white
+}
+.cnthead {
+  padding-top: 40px;
+}
+.btn{
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  color: #F8F5FF !important;
+  font-size: 20px;
+  padding: 11px 19px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  background: #11999E;
+  background: linear-gradient(top,  #66BFBF,  #11999E);
+  background: -ms-linear-gradient(top,  #66BFBF,  #11999E);
+  background: -webkit-gradient(linear, left top, left bottom, from(#66BFBF), to(#11999E));
+  background: -moz-linear-gradient(top,  #66BFBF,  #11999E);
+}
+.btn:hover {
+  color: #FC0000 !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #11999E,  #1BF4FC);
+  background: -ms-linear-gradient(top,  #11999E,  #1BF4FC);
+  background: -webkit-gradient(linear, left top, left bottom, from(#11999E), to(#1BF4FC));
+  background: -moz-linear-gradient(top,  #11999E,  #1BF4FC);
+}
